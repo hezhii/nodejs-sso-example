@@ -11,7 +11,7 @@
 1. **克隆仓库并安装依赖**：
 
 ```bash
-$ git clone git@github.com:hezhii/nodejs-sso-example.git
+$ git clone https://github.com/hezhii/nodejs-sso-example.git
 $ cd nodejs-sso-example
 $ yarn install
 ```
